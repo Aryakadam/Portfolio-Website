@@ -64,7 +64,7 @@ export default function Home() {
                     <Linkedin className="w-5 h-5" />
                   </a>
                   <a 
-                    href="#" 
+                    href="https://github.com/Aryakadam" 
                     target="_blank" 
                     rel="noreferrer"
                     className="w-12 h-12 rounded-full bg-primary/10 text-primary flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-all"
