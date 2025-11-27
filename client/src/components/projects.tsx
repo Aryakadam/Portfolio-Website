@@ -8,7 +8,7 @@ export function Projects() {
     {
       title: "ERP Management System",
       description: "A comprehensive ERP tool to analyze and visualize business metrics such as sales, revenue, and employee performance.",
-      tags: ["Python", "MySQL", "Data Viz", "Automation"],
+      tags: ["Python", "MySQL", "Data Visualization", "Automation"],
       icon: <BarChart3 className="w-10 h-10 text-primary mb-4" />,
       features: [
         "Automated report generation",
